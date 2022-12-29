@@ -67,7 +67,7 @@ void VisualizerPlugin::handleTTLEvent(TTLEventPtr event)
 }
 
 
-void VisualizerPlugin::handleSpike(SpikePtr event)
+void VisualizerPlugin::handleSpike(SpikePtr spike)
 {
 
 }
